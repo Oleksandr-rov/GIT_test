@@ -9,5 +9,8 @@ namespace GIT_test
     internal class Class1
     {
         int i = 0;
+        int j = 0;
+        int k = 0;
+        int m = 1;
     }
 }
