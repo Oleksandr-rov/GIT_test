@@ -11,3 +11,4 @@ Console.WriteLine("- - - - - - - - My_branch_1 commit #4!");
 
 Console.WriteLine("- - - - - - - - My_branch_1 #1!");
 Console.WriteLine("- - - - - - - - My_branch_1 #2!");
+Console.WriteLine("- - - - - - - - My_branch_1 #3!");
