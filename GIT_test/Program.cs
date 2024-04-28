@@ -2,3 +2,4 @@
 Console.WriteLine("Start GIT test!");
 Console.WriteLine("Master commit #1!");
 Console.WriteLine("Master commit #2!");
+Console.WriteLine("Master commit #3!");
