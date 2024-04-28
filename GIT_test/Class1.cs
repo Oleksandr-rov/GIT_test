@@ -11,5 +11,6 @@ namespace GIT_test
         int i = 0;
         int j = 0;
         int k = 0;
+        int m = 1;
     }
 }
