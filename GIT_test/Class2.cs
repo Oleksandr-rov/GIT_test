@@ -9,5 +9,6 @@ namespace GIT_test
     internal class Class2
     {
         float f = 0.2f;
+        double d = 3.3;
     }
 }
