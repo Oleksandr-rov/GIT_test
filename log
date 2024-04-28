@@ -1,0 +1,23 @@
+[33mcommit 715b608fa07e3788ceb63eb525fbdb3140e0d0af[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Oleksandr Rohan <aleksandr.rav@gmail.com>
+Date:   Mon Apr 22 18:56:09 2024 +0300
+
+    Mastr, commit #2
+
+[33mcommit 0f409afa2ddd0f7f1356d59532d85befe97108b1[m
+Author: Oleksandr Rohan <aleksandr.rav@gmail.com>
+Date:   Mon Apr 22 18:51:00 2024 +0300
+
+    Master? commit #1
+
+[33mcommit 3a64d7dc62baabcbaf51da52d8af8eb09352eddf[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Oleksandr Rohan <aleksandr.rav@gmail.com>
+Date:   Mon Apr 22 18:48:21 2024 +0300
+
+    Add project files.
+
+[33mcommit 019cfb403244bfdad76d6b1b677d061a10eb4377[m
+Author: Oleksandr Rohan <aleksandr.rav@gmail.com>
+Date:   Mon Apr 22 18:48:20 2024 +0300
+
+    Add .gitattributes and .gitignore.
