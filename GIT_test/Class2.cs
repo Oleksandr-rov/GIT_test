@@ -10,5 +10,6 @@ namespace GIT_test
     {
         float f = 0.2f;
         double d = 3.3;
+        int i = 10;
     }
 }
